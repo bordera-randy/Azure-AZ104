@@ -1,5 +1,36 @@
 # <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Azure Administrator Badge" width="100" height="100"> AZ-104 Microsoft Azure Administrator
 
+
+
+## Journey to the Certification 
+<img src="https://github.com/bordera-randy/Azure-AZ104/blob/main/img/2023-02-15%2006_45_45-The%20journey%20to%20Microsoft%20Certified%20-%20Azure%20Administrator%20Associate%20and%208%20more%20pa.jpg"  alt="Azure Administrator" width="1000" height="800">
+
+https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElC
+
+## Skills Outline
+https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-104#skills-measured-as-of-october-27-2022  
+
+-Manage Azure AD objects  
+-Manage access control  
+-Manage Azure subscriptions and governance  
+-Configure access to storage  
+-Manage data in Azure storage accounts  
+-Configure Azure Files and Azure Blob Storage  
+-Automate deployment of resources by using templates  
+-Create and configure VMs  
+-Create and configure containers  
+-Create and configure an Azure App Service  
+-Configure virtual networks  
+-Configure secure access to virtual networks  
+-Configure load balancing  
+-Monitor virtual networking  
+-Monitor resources by using Azure Monitor  
+-Implement backup and recovery  
+
+
+## Microsoft Certified: Azure Administrator Associate - Certifications  
+Azure administrators implement, manage, and monitor an organization’s Microsoft Azure environment, including virtual networks, storage, compute, identity, security, and governance.  
+
 ## Labs
 | Module	| Lab |
 | ------------- | ------------- |
