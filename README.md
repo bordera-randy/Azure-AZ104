@@ -8,7 +8,7 @@
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElC
 
 ## Skills Outline
-https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-104#skills-measured-as-of-october-27-2022  
+[Skills Outline](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-104#skills-measured-as-of-october-27-2022)  
 
 -Manage Azure AD objects  
 -Manage access control  
