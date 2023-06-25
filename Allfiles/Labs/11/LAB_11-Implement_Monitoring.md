@@ -29,7 +29,7 @@ In this lab, you will:
 
 ## Architecture diagram
 
-![image](../media/lab11.png)
+![image](/media/lab11.png)
 
 ### Instructions
 
